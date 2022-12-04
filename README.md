@@ -41,6 +41,8 @@ In this project, I also want to achieve that the volume of the sound changes wit
 And in the future study of coding two, I want to learn more about the combination of music and images. For the next step, I hope that in future projects, I can use code to make the image change according to the rhythm of the sound. I also want to learn how to control the value change of each pixel of the image by moving the mouse. I will use these in my next project if I can.
 
 In the previous concept part, I explained the point of the project. Here I want to add one of my views as the end of this description. 
+
 The famous American critic H.L.Mencken said ‘the cosmos is a gigantic fly-wheel making 10,000 revolutions a minute. Man is a sick fly taking a dizzy ride on it.’. And I’d like to add one more line of this quote.
+
 ‘The cosmos is a gigantic fly-wheel making 10,000 revolutions a minute. Man is a sick fly taking a dizzy ride on it. But without flies, there is no universe.’
 
