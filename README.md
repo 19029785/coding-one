@@ -17,6 +17,7 @@ And I also want to tell everyone that we are not alone. There always has someone
 
 
 CODING PART
+
 Firstly, I add a background music into my coding. (week2)
 
 Secondly, I use three.js to add some geometries as the planets.(week7) 
